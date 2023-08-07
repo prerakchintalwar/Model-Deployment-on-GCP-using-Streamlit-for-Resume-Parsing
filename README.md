@@ -8,7 +8,7 @@ Perform model deployment on GCP for resume parsing model using Streamlit App.
 
 The resume parser application can take in millions of resumes parse the needed fields and categorize them. We use popular python libraries like Spacy and OCR text classifications. In this project, for ML model deployment, there are two initial assumptions, first that there is an ML model built and, second, there is an interface available for the model (Streamlit app)
 
-We aim to create the ML model deployment project by using the google cloud platform (GCP). Here, GCP is used as a cloud provider. But first, we would suggest you go through the former project, Resume parsing with Machine learning - NLP with Python OCR and Spacy, before starting this project.
+We aim to create the ML model deployment project by using the google cloud platform (GCP).
 
  
 
